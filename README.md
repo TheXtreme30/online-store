@@ -6,3 +6,4 @@
 - Python
 - Django
 - Celery
+- RabbitMQ

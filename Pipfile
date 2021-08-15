@@ -6,11 +6,12 @@ name = "pypi"
 [packages]
 django = "*"
 pillow = "*"
-celery = "*"
+celery = "==4.4.7"
 
 [dev-packages]
 autopep8 = "*"
 isort = "*"
+flower = "*"
 
 [requires]
 python_version = "3.9"
