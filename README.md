@@ -1,2 +1,3 @@
 # online-store
-online store
+
+Интернет магазин
