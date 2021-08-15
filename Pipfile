@@ -9,6 +9,7 @@ pillow = "*"
 
 [dev-packages]
 autopep8 = "*"
+isort = "*"
 
 [requires]
 python_version = "3.9"
